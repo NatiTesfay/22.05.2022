@@ -97,11 +97,34 @@
 // }
 // RandomNumber();
 
-function RandomFunc() {
-    var rndUser = prompt('name:,name:,age:,age:')+Math.floor(Math.random());
-     
+// function RandomFunc() {
+//     var rndUser = prompt('enter age')+Math.floor(Math.random()*100);
+//     var rndUser = prompt('enter age')+Math.floor(Math.random())*100;
+//     var name = prompt('enter name');
+//     var name = prompt('enter name');
+//     if (name.substring(0,1) == name.substring(0,1)) {
+        
+//     }
+//     console.log(Math.floor(Math.random())*100);
+//     if (name.lastIndexOf(0,1) == name.lastIndexOf(0,1)) {
+        
+//     }
+//     console.log(Math.floor(Math.random())*100);
+
+//     if (name.length - 1 == name.length -1) {
+        
+//     }
+//     // var test =name.substr(name.length -1);
+
+//     console.log (name.substr(name.length -1));
     
-}
+// }
 
+// RandomFunc();
 
-
+// function myFunc() {
+//     var rndUser = prompt('enter text') + Math.floor(Math.random()*5);
+//     // var name = prompt('enter name');
+//      console.log(rndUser.substring(0,2) + Math.floor(Math.random()*5) );
+// }
+// myFunc();
